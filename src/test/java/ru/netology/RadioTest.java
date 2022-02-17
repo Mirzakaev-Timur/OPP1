@@ -6,7 +6,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RadioTest {
 
-
   @Test
   void switchStationCurrentToPrev() {
     Radio radio = new Radio(2);
